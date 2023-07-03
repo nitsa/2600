@@ -1,2 +1,2 @@
 # 2600
-Degradation as DRM
+"Degradation as DRM" article published in 2600 magazine.
